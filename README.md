@@ -1,4 +1,4 @@
-# Hi, 👋 I'm Hector Castro
+# Hi,👋 I'm Hector Castro
 
 # 💫 About Me:
 I'm a Computer Science student at the University of Illinois Chicago, graduating in December 2026.  
@@ -10,7 +10,10 @@ I'm interested in software development, systems programming, and building practi
 Built a personal finance web app in React and JavaScript for budgeting, transaction tracking, and spending visualization.  
 Implemented authentication, secure account registration, and transaction categorization.
 
-
+### Multiplayer Connect 4 Game
+Developed a client-server multiplayer Connect 4 game in Java using socket programming.  
+Built a dedicated server to manage sessions and real-time communication between players, and created a GUI client for live gameplay.  
+Designed message protocols to transmit moves and synchronize game state across clients and server.
 
 
 ## 💻 Tech Stack:
