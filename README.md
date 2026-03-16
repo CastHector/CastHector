@@ -7,7 +7,7 @@ I'm interested in software development, systems programming, and building practi
 ## Featured Projects
 
 ### MoneyMan Personal Finance Application
-Built a personal finance web app in React and JavaScript for budgeting, transaction tracking, and spending visualization.  
+Currently building a personal finance web app in React and JavaScript for budgeting, transaction tracking, and spending visualization.  
 Implemented authentication, secure account registration, and transaction categorization.
 
 ### Multiplayer Connect 4 Game
