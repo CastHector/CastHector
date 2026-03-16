@@ -4,7 +4,7 @@
 I'm a Computer Science student at the University of Illinois Chicago, graduating in December 2026.  
 I'm interested in software development, systems programming, and building practical applications with clean user experiences.
 
-## Featured Projects
+## 📈 Featured Projects
 
 ### Multiplayer Connect 4 Game
 Developed a client-server multiplayer Connect 4 game in Java using socket programming.  
