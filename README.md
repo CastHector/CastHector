@@ -1,4 +1,3 @@
-						Hi 👋 I'm Hector Castro
 # 💫 About Me:
 Computer Science @ UIC
 
